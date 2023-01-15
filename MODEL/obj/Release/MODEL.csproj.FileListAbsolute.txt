@@ -1,0 +1,2 @@
+C:\Users\21629\OneDrive\Desktop\D-IITWm\sem2\c#\view\MODEL\obj\Release\MODEL.csproj.AssemblyReference.cache
+C:\Users\21629\OneDrive\Desktop\D-IITWm\sem2\c#\view\MODEL\obj\Release\MODEL.csproj.CoreCompileInputs.cache

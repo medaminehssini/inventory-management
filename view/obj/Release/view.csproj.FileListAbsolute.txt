@@ -1,0 +1,10 @@
+C:\Users\21629\OneDrive\Desktop\D-IITWm\sem2\c#\view\view\obj\Release\view.csproj.AssemblyReference.cache
+C:\Users\21629\OneDrive\Desktop\D-IITWm\sem2\c#\view\view\obj\Release\view.csproj.SuggestedBindingRedirects.cache
+C:\Users\21629\OneDrive\Desktop\D-IITWm\sem2\c#\view\view\obj\Release\view.ArticleForm.resources
+C:\Users\21629\OneDrive\Desktop\D-IITWm\sem2\c#\view\view\obj\Release\view.commandeForm.resources
+C:\Users\21629\OneDrive\Desktop\D-IITWm\sem2\c#\view\view\obj\Release\view.commandeint.resources
+C:\Users\21629\OneDrive\Desktop\D-IITWm\sem2\c#\view\view\obj\Release\view.Form1.resources
+C:\Users\21629\OneDrive\Desktop\D-IITWm\sem2\c#\view\view\obj\Release\view.menu.resources
+C:\Users\21629\OneDrive\Desktop\D-IITWm\sem2\c#\view\view\obj\Release\view.Properties.Resources.resources
+C:\Users\21629\OneDrive\Desktop\D-IITWm\sem2\c#\view\view\obj\Release\view.csproj.GenerateResource.cache
+C:\Users\21629\OneDrive\Desktop\D-IITWm\sem2\c#\view\view\obj\Release\view.exe.licenses

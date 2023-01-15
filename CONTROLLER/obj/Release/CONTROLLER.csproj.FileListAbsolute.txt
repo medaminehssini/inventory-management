@@ -1,0 +1,2 @@
+C:\Users\21629\OneDrive\Desktop\D-IITWm\sem2\c#\view\CONTROLLER\obj\Release\CONTROLLER.csproj.AssemblyReference.cache
+C:\Users\21629\OneDrive\Desktop\D-IITWm\sem2\c#\view\CONTROLLER\obj\Release\CONTROLLER.csproj.CoreCompileInputs.cache
